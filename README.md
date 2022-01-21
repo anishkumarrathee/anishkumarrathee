@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @anishkumarrathee
 - 👀 I’m interested in learning new skills
 - 🌱 I’m currently learning full stack development 
-- 💞️ I’m looking to collaborate on new ideas and freelance projects
+- 💞️ I’m looking to collaborate on new ideas/ passion projects and freelance projects
 - 📫 Reach me at anishkumarrathee@gmail.com
 
 <!---
